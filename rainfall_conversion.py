@@ -9,5 +9,4 @@ def inches_to_mm(inches)
 	mm=inches*25.4
 	return mm
 	
-#TODO: this is a very very wrong script. You're fired!
-
+#Do the thing
