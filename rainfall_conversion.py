@@ -10,10 +10,10 @@ def inches_to_mm(inches)
 	return mm
 	
 def cm_to_mm(cm)
-	'''convertinches to mm
+	'''convert cm to mm
 	
 	Arguments:
-	inches -- the rainfall in cm
+	cm -- the rainfall in cm
 	'''
-	mm=inches*10
+	mm=cm/10
 	return mm
